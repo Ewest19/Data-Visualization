@@ -1,0 +1,42 @@
+body {
+    background-color: darkslategray;
+}
+
+h1 {
+    color:azure;
+}
+
+h3 {
+    color: rgb(244, 144, 133);
+}
+
+.bar {
+    color:rgb(244, 144, 133);
+}
+
+Plaintext {
+    color: azure;
+    text-align: center;
+    font-size: large;
+    flex-wrap: wrap;
+}
+
+h5 {
+    font-size:medium;
+    color:bisque;
+    text-align: center;
+}
+
+h4 {
+    color:rgb(244, 144, 133);
+    text-align: center;
+    font-size: medium;
+}
+
+ul {
+    color: bisque;
+}
+
+li {
+    color: bisque;
+}
